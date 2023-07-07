@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3-beta (cedbd6c, 2023-05-28)"
+   sodipodi:docname="planetboard.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="18.185903"
+     inkscape:cx="17.073665"
+     inkscape:cy="16.881208"
+     inkscape:window-width="1920"
+     inkscape:window-height="967"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient381"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.31903198;"
+         offset="0"
+         id="stop381" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop382" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient363"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#0f172a;stop-opacity:1;"
+         offset="0"
+         id="stop363" />
+      <stop
+         style="stop-color:#1e293b;stop-opacity:1;"
+         offset="1"
+         id="stop364" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient359"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.5619148;"
+         offset="0"
+         id="stop359" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop360" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient121"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#0f172a;stop-opacity:1;"
+         offset="0"
+         id="stop122" />
+      <stop
+         style="stop-color:#0f172a;stop-opacity:0;"
+         offset="1"
+         id="stop123" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#6e57eb;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#ff63eb;stop-opacity:1;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient3"
+       x1="8.4901228"
+       y1="8.3597574"
+       x2="24.316795"
+       y2="23.3864"
+       gradientUnits="userSpaceOnUse" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath159">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g158"
+         id="use159" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath159-0">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g158-2"
+         id="use159-3" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Noise Fill"
+       id="filter349"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feTurbulence
+         type="fractalNoise"
+         baseFrequency="12.8783 40.3704"
+         numOctaves="1"
+         seed="105"
+         result="turbulence"
+         id="feTurbulence348" />
+      <feComposite
+         in="SourceGraphic"
+         in2="turbulence"
+         operator="in"
+         result="composite1"
+         id="feComposite348" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2.0344 -0 "
+         result="color"
+         id="feColorMatrix348" />
+      <feFlood
+         flood-opacity="0"
+         flood-color="rgb(21,40,64)"
+         result="flood"
+         id="feFlood348" />
+      <feMerge
+         result="merge"
+         id="feMerge349">
+        <feMergeNode
+           in="flood"
+           id="feMergeNode348" />
+        <feMergeNode
+           in="color"
+           id="feMergeNode349" />
+      </feMerge>
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         result="composite2"
+         id="feComposite349" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient359"
+       id="linearGradient360"
+       x1="27.782478"
+       y1="23.696955"
+       x2="4.3586116"
+       y2="9.5781898"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient363"
+       id="linearGradient364"
+       x1="-9.8149071"
+       y1="21.819653"
+       x2="21.931486"
+       y2="21.819653"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Noise Fill"
+       id="filter378"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feTurbulence
+         type="fractalNoise"
+         baseFrequency="48.6989 59.3186"
+         numOctaves="2"
+         seed="197"
+         result="turbulence"
+         id="feTurbulence377" />
+      <feComposite
+         in="SourceGraphic"
+         in2="turbulence"
+         operator="in"
+         result="composite1"
+         id="feComposite377" />
+      <feColorMatrix
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 3.38653 -0 "
+         result="color"
+         id="feColorMatrix377" />
+      <feFlood
+         flood-opacity="0"
+         flood-color="rgb(21,40,64)"
+         result="flood"
+         id="feFlood377" />
+      <feMerge
+         result="merge"
+         id="feMerge378">
+        <feMergeNode
+           in="flood"
+           id="feMergeNode377" />
+        <feMergeNode
+           in="color"
+           id="feMergeNode378" />
+      </feMerge>
+      <feComposite
+         in2="SourceGraphic"
+         operator="in"
+         result="fbSourceGraphic"
+         id="feComposite378" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix378" />
+      <feTurbulence
+         id="feTurbulence378"
+         type="fractalNoise"
+         baseFrequency="48.6989 59.3186"
+         numOctaves="2"
+         seed="197"
+         result="turbulence"
+         in="fbSourceGraphic" />
+      <feComposite
+         id="feComposite379"
+         in="fbSourceGraphic"
+         in2="turbulence"
+         operator="in"
+         result="composite1" />
+      <feColorMatrix
+         id="feColorMatrix379"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 3.38653 -0 "
+         result="color" />
+      <feFlood
+         id="feFlood379"
+         flood-opacity="0"
+         flood-color="rgb(21,40,64)"
+         result="flood" />
+      <feMerge
+         id="feMerge379"
+         result="merge">
+        <feMergeNode
+           id="feMergeNode379"
+           in="flood" />
+        <feMergeNode
+           id="feMergeNode380"
+           in="color" />
+      </feMerge>
+      <feComposite
+         id="feComposite380"
+         in2="fbSourceGraphic"
+         operator="in"
+         result="composite2" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient381"
+       id="linearGradient382"
+       x1="18.788063"
+       y1="25.797873"
+       x2="-0.9877916"
+       y2="9.8997021"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g159"
+       clip-path="url(#clipPath159)">
+      <g
+         inkscape:label="Clip"
+         id="g158">
+        <g
+           id="g9">
+          <circle
+             style="fill:url(#linearGradient3);stroke-width:0"
+             id="path1"
+             cx="16"
+             cy="16"
+             r="11"
+             inkscape:label="path1" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g159-3"
+       clip-path="url(#clipPath159-0)"
+       style="fill:url(#linearGradient360);fill-opacity:1;filter:url(#filter349)">
+      <g
+         inkscape:label="Clip"
+         id="g158-2"
+         style="fill:url(#linearGradient360);fill-opacity:1">
+        <g
+           id="g9-0"
+           style="fill:url(#linearGradient360);fill-opacity:1">
+          <circle
+             style="fill:url(#linearGradient360);stroke-width:0;fill-opacity:1"
+             id="path1-6"
+             cx="16"
+             cy="16"
+             r="11"
+             inkscape:label="path1" />
+        </g>
+      </g>
+    </g>
+    <ellipse
+       style="fill:url(#linearGradient364);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:0"
+       id="path70"
+       cx="6.0582895"
+       cy="21.819653"
+       rx="15.873197"
+       ry="2.637996"
+       transform="matrix(0.86911899,-0.49460306,0.49197051,0.87061186,0,0)" />
+    <ellipse
+       style="fill:url(#linearGradient382);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:0;filter:url(#filter378)"
+       id="path70-6"
+       cx="6.0582891"
+       cy="21.819653"
+       rx="15.873197"
+       ry="2.637996"
+       transform="matrix(0.86911899,-0.49460306,0.49197051,0.87061186,0,0)" />
+  </g>
+</svg>
